@@ -39,6 +39,14 @@ body, .site, .main, .navigation {
 	top: 3%;
 	left: 12%;
 }
+#site-title h1 a, #site-title h1 a:visited {
+	text-decoration: none;
+	color: white;
+}
+#site-title h1 a:hover {
+	text-decoration: underline;
+	color: white;
+}
 .welcome-message {
 	position: absolute;
 	top: 20%;
