@@ -39,17 +39,13 @@ body, .site, .main, .navigation {
 	top: 3%;
 	left: 12%;
 }
-.header-message {
+.welcome-message {
 	position: absolute;
 	top: 20%;
 	left: 20%;
 	font-size: 25px;
 }
-#img-overlay {
-	background-color: rgba(255,255,255,0.5);
-	z-index: 1;
-}
-#pic-me, #img-overlay {
+#pic-me {
 	width: 8%;
 	height: auto;
 	border-radius: 50%;
