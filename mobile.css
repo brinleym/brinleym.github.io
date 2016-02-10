@@ -1,0 +1,14 @@
+.navigation {
+	left: 60%;
+	top: 5%;
+}
+
+.welcome-message {
+	left: 0%;
+	padding-left: 5%;
+	padding-right: 5%;
+}
+.info, .resume {
+	padding-left: 5%;
+	padding-right: 5%;
+}
