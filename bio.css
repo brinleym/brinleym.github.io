@@ -1,9 +1,13 @@
+.main {
+	min-height: 150%;
+}
+
 .info {
 	position: absolute;
 	padding-left: 20%;
 	padding-right: 20%;
-	top: 20%;
+	top: 15%;
 }
-.info p {
+.info p, .info ul li {
 	font-size: 20px;
 }

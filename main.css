@@ -30,34 +30,39 @@ body, .site, .main, .navigation {
 .navigation ul li a:hover {
 	text-decoration: underline;
 }
-.main {
-	background-color: rgb(255, 61, 74);
-	color: white;
-}
-#site-title {
+#site-header {
 	position: absolute;
 	top: 3%;
-	left: 12%;
+	left: 0%;
+	z-index: 1;
+	width: 30%;
 }
-#site-title h1 a, #site-title h1 a:visited {
+#site-header h1 {
+	margin-left: 35%;
+}
+#site-header h1 a, #site-header h1 a:visited {
 	text-decoration: none;
-	color: white;
+	color: black;
 }
-#site-title h1 a:hover {
+#site-header h1 a:hover {
 	text-decoration: underline;
-	color: white;
+	color: black;
+}
+#pic-me {
+	position: absolute;
+	width: 20%;
+	height: auto;
+	border-radius: 50%;
+	margin-left: 10%;
+	top: 3%;
+}
+.main {
+	/*background-color: rgb(255, 61, 74);*/
+	color: black;
 }
 .welcome-message {
 	position: absolute;
 	top: 20%;
 	left: 20%;
 	font-size: 25px;
-}
-#pic-me {
-	width: 8%;
-	height: auto;
-	border-radius: 50%;
-	position: absolute;
-	left: 2%;
-	top: 3%;
 }
