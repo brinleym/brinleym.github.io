@@ -4,10 +4,14 @@
 
 .info {
 	position: absolute;
-	padding-left: 20%;
+	padding-left: 30%;
 	padding-right: 20%;
 	top: 11%;
 }
-.info p, .info ul li {
+.info {
 	font-size: 20px;
+}
+.quote {
+	font-size: 16px;
+	color: red;
 }
