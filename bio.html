@@ -5,37 +5,43 @@
 		<title>Brinley | Bio</title>
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0">
-		<link rel="stylesheet" type="text/css" href="main.css"/>
-		<link rel="stylesheet" type="text/css" href="bio.css"/>
+
+		<link rel='stylesheet' href='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css' integrity='sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7' crossorigin='anonymous'>
+		<link rel='stylesheet' href='https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/themes/smoothness/jquery-ui.css'>
+		<link rel='stylesheet' href='main.css'>
+		<link rel='stylesheet' href='bio.css'>
 		<link rel="stylesheet" href="mobile.css" media="all and (max-device-width:900px)"/>
+
+		<script src='https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js'></script> 
+		<script src='https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/jquery-ui.min.js'></script>
+		<script src='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js' integrity='sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS' crossorigin='anonymous'></script>
+
+		<script type="text/javascript">
+
+			$(function(){
+			  $("#header").load("header.html"); 
+			});
+
+		</script>
+
 
 
 	</head>
 
 	<body>
-		<div class="site">
-			<div class="navigation">
-				<ul class="menu">
-					<li><a href="bio.html">Bio</a></li>
-					<li><a href="resume.html">CV</a></li>
-				</ul>
-			</div>
-			<div id="site-header">
-				<h1><a href="index.html">Brinley</a></h1>
-				<img src="images/me2-small.jpg" alt="picture of me" id="pic-me">
-			</div>
-			<div class="main">
 
-				<div class="info">
+		<div id="header"></div>
+		<div class="main">
 
-					<h2>About me in &lt; 20 words:</h2>
-					<p>Enjoys Mandalas, Sarah Silverman, and structure. Excels at listening and googling.</p>
-					<br>
-					<br>
-					<p class="quote">Well-timed silence hath more eloquence than speech.</p> 
-					<p class="quote">- Martin Farquhar Tupper</p>
+			<div class="info">
 
-				</div>
+				<h2>About me in &lt; 20 words:</h2>
+				<p>Enjoys Mandalas, Sarah Silverman, and structure. Excels at listening and googling.</p>
+				<br>
+				<br>
+				<p class="quote">Well-timed silence hath more eloquence than speech.</p> 
+				<p class="quote">- Martin Farquhar Tupper</p>
+
 			</div>
 		</div>
 
