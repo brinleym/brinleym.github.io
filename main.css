@@ -14,9 +14,5 @@ body, .main {
 }
 .main {
 	margin: 3%;
-	margin-top: 90px;
-}
-.welcome-message {
-	position: absolute;
-	font-size: 25px;
+	margin-top: 70px;
 }
