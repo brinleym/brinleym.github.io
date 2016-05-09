@@ -13,7 +13,8 @@ body, .main, .navigation {
 	top: 0%;
 }
 .main {
-	padding-top: 15%;
+	margin: 5%;
+	margin-top: 150px;
 }
 .navigation {
 	position: fixed;
