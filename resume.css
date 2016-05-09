@@ -1,11 +1,7 @@
 .main {
-	min-height: 200%;
+	/*min-height: 200%;*/
 }
 .resume {
-	position: absolute;
-	padding-left: 20%;
-	padding-right: 20%;
-	top: 8%;
 }
 .bolden {
 	font-weight: bold;
