@@ -5,7 +5,7 @@ html {
 body {
 	font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;;
 }
-body, .main, .navigation {
+body, .main {
 	margin: 0;
 	position: absolute;
 	min-height: 100%;
@@ -13,56 +13,8 @@ body, .main, .navigation {
 	top: 0%;
 }
 .main {
-	margin: 5%;
-	margin-top: 150px;
-}
-.navigation {
-	position: fixed;
-	z-index: 1;
-	width: 10%;
-	left: 80%;
-}
-.navigation ul li{
-	display: inline;
-	padding: 1%;
-}
-.navigation ul li a, .navigation ul li a:visited{
-	text-decoration: none;
-	color: black;
-	font-size: 25px;
-}
-.navigation ul li a:hover {
-	text-decoration: underline;
-}
-#site-header {
-	position: absolute;
-	top: 3%;
-	left: 0%;
-	z-index: 1;
-	width: 30%;
-}
-#site-header h1 {
-	margin-left: 35%;
-}
-#site-header h1 a, #site-header h1 a:visited {
-	text-decoration: none;
-	color: black;
-}
-#site-header h1 a:hover {
-	text-decoration: underline;
-	color: black;
-}
-#pic-me {
-	position: absolute;
-	width: 20%;
-	height: auto;
-	border-radius: 50%;
-	margin-left: 10%;
-	top: 3%;
-}
-.main {
-	/*background-color: rgb(255, 61, 74);*/
-	color: black;
+	margin: 3%;
+	margin-top: 90px;
 }
 .welcome-message {
 	position: absolute;
