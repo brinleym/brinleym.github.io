@@ -1,8 +1,8 @@
-a {
+.embedly-card{
 	width: 90%;
 }
 iframe {
-	width: 70%;
+	width: 100%;
 }
 .description {
 	padding-top: 40px;
