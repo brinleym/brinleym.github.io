@@ -1,6 +1,6 @@
 data = [
     {
-        language: "Bash", 
+        language: "Hello", 
         level: 50
     },
     {
