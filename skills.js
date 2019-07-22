@@ -63,7 +63,6 @@ document.addEventListener("DOMContentLoaded", function(e) {
     const xScale = d3.scaleBand()
         .range([0, width])
         .domain(data.map((s) => s.language))
-        .padding(0.2)
     
     chart.append('g')
         .attr('transform', `translate(0, ${height})`)
