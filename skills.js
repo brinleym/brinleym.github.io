@@ -36,14 +36,12 @@ data = [
         level: 55
     },
     {
-        langugae: "Illustrator",
+        langugae: "Git",
         level: 90
     }
 ];
 
 document.addEventListener("DOMContentLoaded", function(e) {
-
-    console.log("DOM loaded!");
 
     const margin = 60;
     const width = 1000 - 2 * margin;
