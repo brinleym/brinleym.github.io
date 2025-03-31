@@ -83,8 +83,7 @@ a whole new API for parsing JSON data. To make matters worse, the `JSONObject`'s
 
 In summary, Python's `json` module exposes a simple interface for encoding and 
 decoding JSON that provides powerful functionality, taking care of important details like
-type casting. Conversing, `JSONObject` is a much shallower module that puts on 
-onus of type casting on the client, exposing too much complexity and significantly 
+type casting. Conversing, `JSONObject` is a much shallower module that puts the onus of type casting on the client, exposing too much complexity and significantly 
 increasing cognitive load. 
 
 #### Choosing good names
@@ -105,7 +104,7 @@ A common complaint about comments is that they are hard to maintain, and often b
 1. Good comments make the code more obvious
 2. Good comments provide context at a different level of detail from the code. Whereas, bad comments just repeat the code
 - Comments with less detail help to enhance the developer's intuition about what the code is doing. For example, you might want to add an implementation comment next to a complex chunk of code that summarizes what it is doing in lay man's terms 
-- Comments with more detail give developers a more precise understanding of the code. For example, interface comments describing the exact input and output types of a method provides a developer with a more precise understanding of how to invoke the method
+- Comments with more detail give developers a more precise understanding of the code. For example, interface comments describing the exact input and output types of a method give a developer with a more precise understanding of how to invoke the method
 3. Good comments are formatted according to language conventions
 4. Good comments are placed as close to the relevant code as possible
 5. Good comments are put in the code itself, rather than the commit log
@@ -125,7 +124,7 @@ definitely go get yourself a copy of APOSD!!
 Finally, as the author notes in the book's introduction, *A Philosophy of Software Design* is an "opinion piece," so naturally, there are going to be folks who disagree with 
 Ousterhout's ideas about software design. Here are two good sources of differing opinions:
 - Internet of Bugs' [review of APOSD](https://www.youtube.com/watch?v=4xqkI953K6Y)
-- John Ousterhout's conversation with the author of Clean Code, X, about areas
+- John Ousterhout's [conversation](https://github.com/johnousterhout/aposd-vs-clean-code/blob/main/README.md) with the author of *Clean Code*, Robert Martin, about areas
 where they disagree
 
 ### Resources
