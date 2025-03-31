@@ -124,12 +124,12 @@ definitely go get yourself a copy of APOSD!!
 
 Finally, as the author notes in the book's introduction, *A Philosophy of Software Design* is an "opinion piece," so naturally, there are going to be folks who disagree with 
 Ousterhout's ideas about software design. Here are two good sources of differing opinions:
-- Internet of Bugs' review of APOSD
+- Internet of Bugs' [review of APOSD](https://www.youtube.com/watch?v=4xqkI953K6Y)
 - John Ousterhout's conversation with the author of Clean Code, X, about areas
 where they disagree
 
 ### Resources
 
-- *A Philosophy of Software Design*
-- John Ousterhout's website
+- [*A Philosophy of Software Design*](https://www.amazon.com/dp/173210221X)
+- [John Ousterhout's website](https://web.stanford.edu/~ouster/cgi-bin/home.php)
 
