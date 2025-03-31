@@ -87,3 +87,4 @@ Some examples of very good technical presentations:
 * [Assertion Evidence website](https://www.assertion-evidence.com/)
 * [Slide:ology by Nancy Duarte](https://www.duarte.com/resources/books/slideology/)
 * [How to Speak by Patrick Winston](https://www.youtube.com/watch?v=Unzc731iCUY)
+* [Gettysburg Powerpoint Presentation](https://norvig.com/Gettysburg/making.html)
