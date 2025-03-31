@@ -59,8 +59,7 @@ to support each slide’s assertion.
 ### How to use the Assertion Evidence Model
 
 The Assertion Evdience team has a helpful [website](https://www.assertion-evidence.com/) 
-that includes [improved PowerPoint templates](https://www.assertion-evidence.com/templates.html) 
-to get you started. However, it's important to note that the Assertion Evidence 
+that includes [improved PowerPoint templates](https://www.assertion-evidence.org/templates.html) to get you started. However, it's important to note that the Assertion Evidence 
 templates alone will not make a great presentation. In order to give a great 
 presentation, you must have sufficient motivation to prepare your ideas and
 craft intuitive slides.
@@ -68,7 +67,7 @@ craft intuitive slides.
 ### In Summary
 
 Too many people fail to question the need for PowerPoint and
-meetings more generally. Get into the habit using meetings and PowerPoint as
+meetings more generally. Get into the habit of using meetings and PowerPoint as
 sparingly as possible. If you find yourself in a change-resistant culture 
 where meetings and PowerPoint are overvalued, leave as quickly as possible.  
 
