@@ -3,33 +3,20 @@ layout: default
 title: Home
 ---
 
-<!--
-<div class="posts">
-  {% for post in paginator.posts %}
-  <article class="post">
-    <h1 class="post-title">
-      <a href="{{ post.url | relative_url }}">
-        {{ post.title }}
-      </a>
-    </h1>
-
-    <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date_to_string }}</time>
-
-    {{ post.content }}
-  </article>
-  {% endfor %}
-</div> -->
-
 <h3>Overview</h3>
 <p>
-  Brinley Macnamara is Software Engineer at Meta, working on the operating system UI for Virtual Reality headsets.
-  She received a B.S. in Computer Science from Tufts University.
+  Brinley Macnamara is Software Engineer at Meta. While at Meta, she has <a target="_blank" href="https://www.meta.com/blog/instagram-3d-photos-spatial-medianavigator-meta-quest-test/">rewritten the operating system 
+  UI for VR headsets</a>. Currently, she is on an ML Infra team, working on improving the UX of 
+  evaluating the performance of machine learning models.
+</p>
+<p>
+  Brinley holds a B.S. in Computer Science from Tufts University.
 </p>
 
 <h3>Contact Info</h3>
 <p>Email: brinley.macnamara@gmail.com</p>
 
-<h3>Thoughts</h3>
+<h3>Posts</h3>
 <ul>
   {% for post in site.posts %}
     <li>
