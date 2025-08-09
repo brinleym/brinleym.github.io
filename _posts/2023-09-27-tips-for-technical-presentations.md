@@ -11,8 +11,8 @@ findings in this post.
 ### Why most PowerPoints are ineffective
 
 The majority of PowerPoint presentations are ineffective for one of two reasons:
-1. **Mistake #1** - PowerPoint is used when it is not necessary
-2. **Mistake #2** - PowerPoint slides are poorly formatted
+1. PowerPoint is used when it is not necessary
+2. PowerPoint slides are poorly formatted
 
 This means you can instantly become better at PowerPoint simply by interrogating whether or 
 not a PowerPoint presentation is necessary at all. As you do this, here are some 
@@ -20,7 +20,7 @@ helpful heuristics to keep in mind:
 * PowerPoint is **not** a good tool for facilitating meetings. Instead, consider
 distributing a Google Doc with an agenda or memo for attendees to read beforehand
 * PowerPoint is **not** a good medium for providing supplementary notes to an 
-audience. Instead, put supplementary information in a separate memo that you can
+audience. Instead, put supplementary information in a separate doc that you can
 distribute after your presentation
 * PowerPoint should **not** be used as a script or outline for the presenter. Instead, 
 your slides should be designed to enhance an audience's comprehension
