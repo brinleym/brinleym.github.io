@@ -79,7 +79,7 @@ are the heart of your presentations - not your slides.
 
 Some examples of very good technical presentations:
 * [Quantum Computing from a Software Perspective](https://www.youtube.com/watch?v=wSTxiJduCMo)
-* More to come!
+* [Vibe coding in prod](https://www.youtube.com/watch?v=fHWFF_pnqDk&t=1429s)
 
 ### Resources
 
