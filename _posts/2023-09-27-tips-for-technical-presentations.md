@@ -36,30 +36,12 @@ disorganized, and antithetical to audience comprehension.
 
 To combat this problem, the same team at Penn State created the [Assertion
 Evidence Model](https://www.assertion-evidence.com/) to encourage presenters to 
-create talks that "are comprehended better by audiences and project more 
-confidence from speakers."
-
-### The Three Principles of the Assertion Evidence Model
-
-The key to the success of the Assertion Evidence Model is the constraints it
-imposes on PowerPoint presentations - also known as the [Principles of 
-Assertion Evidence](https://www.assertion-evidence.com/principles.html):
-
-1. **Principle #1** - You must break away from the PowerPoint mold. This means
-that instead of constructing each slide around a topic, each slide should be 
-focused around a key message. This will be your “assertion.” Messages should 
-be developed outside of PowerPoint and you should only move to 
-PowerPoint once you’ve established what each slide's message will be. 
-2. **Principle #2** - Support each slide’s assertion with visual evidence (not bullet points). 
-3. **Principle #3** - Get comfortable with your content through practice so that 
-you project confidence during your presentation. DO NOT memorize a script. 
-Rather, know the content well enough so that you can form off-the-cuff sentences 
-to support each slide’s assertion. 
-
-### How to use the Assertion Evidence Model
+create talks that "are comprehended better by audiences" by crafting talks around 
+a key message that is supported by visual evidence.
 
 The Assertion Evdience team has a helpful [website](https://www.assertion-evidence.com/) 
-that includes [improved PowerPoint templates](https://www.assertion-evidence.org/templates.html) to get you started. However, it's important to note that the Assertion Evidence 
+that includes [improved PowerPoint templates](https://www.assertion-evidence.org/templates.html) 
+to get you started. However, it's important to note that the Assertion Evidence 
 templates alone will not make a great presentation. In order to give a great 
 presentation, you must have sufficient motivation to prepare your ideas and
 craft intuitive slides.
