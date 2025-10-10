@@ -14,14 +14,12 @@ title: Home
 </p>
 
 <h3>Contact Info</h3>
-<p>Email: brinley.macnamara@gmail.com</p>
+<p>brinley.macnamara@gmail.com</p>
 
 <h3>Posts</h3>
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <span>{{ post.date | date_to_string }} - </span>
-      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
+{% for post in site.posts %}
+  <div>
+    <span>{{ post.date | date_to_string }} - </span>
+    <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+  </div>
+{% endfor %}
